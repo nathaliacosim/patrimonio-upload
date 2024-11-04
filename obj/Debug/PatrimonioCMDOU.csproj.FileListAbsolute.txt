@@ -1,0 +1,7 @@
+D:\2024\Patrimonio\CMDourados\PatrimonioCMDOU\bin\Debug\PatrimonioCMDOU.exe.config
+D:\2024\Patrimonio\CMDourados\PatrimonioCMDOU\bin\Debug\PatrimonioCMDOU.exe
+D:\2024\Patrimonio\CMDourados\PatrimonioCMDOU\bin\Debug\PatrimonioCMDOU.pdb
+D:\2024\Patrimonio\CMDourados\PatrimonioCMDOU\obj\Debug\PatrimonioCMDOU.csproj.AssemblyReference.cache
+D:\2024\Patrimonio\CMDourados\PatrimonioCMDOU\obj\Debug\PatrimonioCMDOU.csproj.CoreCompileInputs.cache
+D:\2024\Patrimonio\CMDourados\PatrimonioCMDOU\obj\Debug\PatrimonioCMDOU.exe
+D:\2024\Patrimonio\CMDourados\PatrimonioCMDOU\obj\Debug\PatrimonioCMDOU.pdb
